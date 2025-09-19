@@ -2,19 +2,19 @@
 
 # 🚀 My Project Portfolio
 
-# 👨‍💻 About Me
+# About Me
 
 Hi, I’m **Likhith Anand** — a **Business and Engineering student (B.Eng.)** currently studying between **Technische Hochschule Würzburg-Schweinfurt (Germany)** and **Auburn University (USA)**.  
 
 I combine **Engineering Design, ERP Systems, and Process Optimisation** with a strong foundation in **Industrial & Systems Engineering**. With international experience across **India, Germany, and the USA**, I bring a **global perspective** and strong cross-cultural teamwork skills.  
 
-🌍 **What drives me?**  
+**What drives me?**  
 I am passionate about **optimising production systems and integrating ERP solutions** to improve efficiency, reliability, and decision-making. My goal is to design smarter, more sustainable production systems that connect **business processes with engineering execution** through ERP and Industry 4.0 technologies.  
 
 📌 Currently:  
 - Projects in **ERP & Digital Transformation, Material Flow Optimisation and Product Development**  
 - Expanding expertise in **Makerspace prototyping**, **Siemens Plant Simulation**, **Siemens NX Cad** and **DMAIC phases**.
----
+-------------------------------------
 
 # 🚀 Welcome  
 
@@ -25,7 +25,7 @@ Here are some of my key projects with links to their repositories:
 
 ## 📌 Featured Projects
 
-### 🤖 [ROBODROID](https://github.com/ARVLIKHITH/Redesigned-ROBODROID)  (https://github.com/ARVLIKHITH/Redesigned-ROBODROID) 
+### 1. [ROBODROID](https://github.com/ARVLIKHITH/Redesigned-ROBODROID)  (https://github.com/ARVLIKHITH/Redesigned-ROBODROID) 
 - **Type:** Individual Project | *Aug – Nov 2023*  
 - **Tech Stack:** Arduino, Ultrasonic & Heat Sensors  
 - **Highlights:**  
@@ -34,8 +34,7 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### <img width="338" height="360" alt="image" src="https://github.com/user-attachments/assets/b0f1937f-a643-49e2-90c7-b2eb99a97530" />
-[Business Processes & ERP Simulation](https://github.com/ARVLIKHITH/Business-Processess-BPRO) (https://github.com/ARVLIKHITH/Business-Processess-BPRO)
+### 2. [Business Processes & ERP Simulation](https://github.com/ARVLIKHITH/Business-Processess-BPRO) (https://github.com/ARVLIKHITH/Business-Processess-BPRO)
 - **Type:** Individual Project | *Mar – Jul 2024*  
 - **Tech Stack:** SAP HANA, AP Plus, BPMN  
 - **Highlights:**  
@@ -45,7 +44,7 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### 🛠️ [Product Development Project](https://github.com/ARVLIKHITH/Product-Development-Dart-Retrieval-System) (https://github.com/ARVLIKHITH/Product-Development-Dart-Retrieval-System)
+### 3. [Product Development Project](https://github.com/ARVLIKHITH/Product-Development-Dart-Retrieval-System) (https://github.com/ARVLIKHITH/Product-Development-Dart-Retrieval-System)
 - **Type:** Group Project | *Aug 2024 – Jul 2025*  
 - **Focus Areas:** Variant Design, Morphological Box, LoR Analysis, Gantt Charts  
 - **Highlights:**  
@@ -54,7 +53,7 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### 📊 Senior Design – Brown-Kopel “Table Talks” Optimisation
+### 4. Senior Design – Brown-Kopel “Table Talks” Optimisation
 - **Type:** Group Project | *Aug 2025 – Present*  
 - **Framework:** DMAIC, Data-Driven Analysis  
 - **Highlights:**  
@@ -63,7 +62,7 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### 🔄 Material Flow Optimisation
+### 5. Material Flow Optimisation
 - **Type:** Individual Project | *Sep 2025 – Present*  
 - **Tech Stack:** Siemens Tecnomatix Plant Simulation, BPMN, VSM  
 - **Highlights:**  
@@ -72,7 +71,7 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### ☁️ ERP Systems & Digital Transformation
+### 6. ERP Systems & Digital Transformation
 - **Type:** Individual Project | *Sep 2025 – Present*  
 - **Tech Stack:** Microsoft Azure, Odoo ERP, Cloud Integration  
 - **Highlights:**  
@@ -81,7 +80,7 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### 🧑‍🔧 Makerspace Projects
+### 7. Makerspace Projects
 - **Type:** Ongoing | *Aug 2025 – Present*  
 - **Focus Areas:** CNC, CAD/CAM, Welding, Electronics  
 - **Highlights:**  
