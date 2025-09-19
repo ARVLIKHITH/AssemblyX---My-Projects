@@ -40,9 +40,8 @@ Here are some of my key projects with links to their repositories:
 - **Type:** Individual Project | *Mar – Jul 2024*  
 - **Tech Stack:** SAP HANA, AP Plus, BPMN  
 - **Highlights:**  
-  - Ranked in the **Top 1% of the class**.  
   - Designed BPMN schemas and linked business processes with ERP.  
-  - Simulated workflows for **VAHINI Pipes** with customer orders, master data, and confirmations.  
+  - Collaborated with  **[VAHINI Pipes](https://vahinipipes.com/)** to simulate ERP workflows, including customer orders, product master data, and confirmations.  
 
 ---
 
