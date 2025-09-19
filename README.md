@@ -25,11 +25,8 @@ Here are some of my key projects with links to their repositories:
 
 ## 📌 Featured Projects
 
-### 1. [ROBODROID](https://github.com/ARVLIKHITH/Redesigned-ROBODROID)  (https://github.com/ARVLIKHITH/Redesigned-ROBODROID) 
-### 🤖 **[ROBODROID – Arduino Prototype](https://github.com/ARVLIKHITH/Redesigned-ROBODROID)**
-[![GitHub Repo](https://img.shields.io/badge/Code-ROBODROID-blue?logo=github)](https://github.com/ARVLIKHITH/Redesigned-ROBODROID)  
+### 1. [ROBODROID] (https://github.com/ARVLIKHITH/Redesigned-ROBODROID) 
 *An Arduino-powered robot integrating ultrasonic and heat sensors for automation and safety.*
-
 - **Type:** Individual Project | *Aug – Nov 2023*  
 - **Tech Stack:** Arduino, Ultrasonic & Heat Sensors  
 - **Highlights:**  
@@ -38,7 +35,8 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### 2. [Business Processes & ERP Simulation](https://github.com/ARVLIKHITH/Business-Processess-BPRO) (https://github.com/ARVLIKHITH/Business-Processess-BPRO)
+### 2. [Business Processes & ERP Simulation] (https://github.com/ARVLIKHITH/Business-Processess-BPRO) 
+*ERP workflow simulation with BPMN schemas in SAP HANA and AP Plus.*
 - **Type:** Individual Project | *Mar – Jul 2024*  
 - **Tech Stack:** SAP HANA, AP Plus, BPMN  
 - **Highlights:**  
@@ -48,7 +46,8 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### 3. [Product Development Project](https://github.com/ARVLIKHITH/Product-Development-Dart-Retrieval-System) (https://github.com/ARVLIKHITH/Product-Development-Dart-Retrieval-System)
+### 3. [Product Development Project] (https://github.com/ARVLIKHITH/Product-Development-Dart-Retrieval-System)
+*Designed and optimised a dart retrieval system prototype using variant analysis and structured design methods.*
 - **Type:** Group Project | *Aug 2024 – Jul 2025*  
 - **Focus Areas:** Variant Design, Morphological Box, LoR Analysis, Gantt Charts  
 - **Highlights:**  
@@ -58,6 +57,7 @@ Here are some of my key projects with links to their repositories:
 ---
 
 ### 4. Senior Design – Brown-Kopel “Table Talks” Optimisation
+*Applied DMAIC methodology to streamline student recruiting and engagement processes for higher efficiency.*
 - **Type:** Group Project | *Aug 2025 – Present*  
 - **Framework:** DMAIC, Data-Driven Analysis  
 - **Highlights:**  
@@ -67,6 +67,7 @@ Here are some of my key projects with links to their repositories:
 ---
 
 ### 5. Material Flow Optimisation
+*Developed a digital twin of a pipe manufacturing line with Siemens Plant Simulation to improve flow and efficiency.*
 - **Type:** Individual Project | *Sep 2025 – Present*  
 - **Tech Stack:** Siemens Tecnomatix Plant Simulation, BPMN, VSM  
 - **Highlights:**  
@@ -76,6 +77,7 @@ Here are some of my key projects with links to their repositories:
 ---
 
 ### 6. ERP Systems & Digital Transformation
+*Integrated ERP with Microsoft Azure and Odoo to demonstrate scalable digital transformation in Industry 4.0.*
 - **Type:** Individual Project | *Sep 2025 – Present*  
 - **Tech Stack:** Microsoft Azure, Odoo ERP, Cloud Integration  
 - **Highlights:**  
@@ -85,10 +87,11 @@ Here are some of my key projects with links to their repositories:
 ---
 
 ### 7. Makerspace Projects
+*Prototyping with CNC, CAD/CAM, welding, and electronics while developing advanced Makerspace-certified designs.*
 - **Type:** Ongoing | *Aug 2025 – Present*  
 - **Focus Areas:** CNC, CAD/CAM, Welding, Electronics  
 - **Highlights:**  
-  - Completed advanced Makerspace training.  
+  - Completed general training and now advancing through Makerspace specialisations, aiming for full certification.  
   - Designing prototypes using Fusion 360, AutoCAD, and electronics integration.  
 
 ---
