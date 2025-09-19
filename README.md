@@ -99,7 +99,7 @@ Here are some of my key projects with links to their repositories:
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Likhith%20Anand-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/likhith-anand-ba8007253/) [![GitHub](https://img.shields.io/badge/GitHub-ARVLIKHITH-black?logo=github)](https://github.com/ARVLIKHITH)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Likhith%20Anand-blue?logo=linkedin&logoColor=white)] [![GitHub](https://img.shields.io/badge/GitHub-ARVLIKHITH-black?logo=github)]
 
 ---
 
