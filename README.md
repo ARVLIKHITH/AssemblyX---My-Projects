@@ -109,5 +109,5 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-✨ *This portfolio is continuously updated as I progress in my academic and professional journey.*  
+*This portfolio is continuously updated as I progress in my academic and professional journey.*  
 
