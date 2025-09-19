@@ -25,7 +25,7 @@ Here are some of my key projects with links to their repositories:
 
 ## 📌 Featured Projects
 
-### 1. [ROBODROID] (https://github.com/ARVLIKHITH/Redesigned-ROBODROID) 
+### 1. ROBODROID (https://github.com/ARVLIKHITH/Redesigned-ROBODROID) 
 *An Arduino-powered robot integrating ultrasonic and heat sensors for automation and safety.*
 - **Type:** Individual Project | *Aug – Nov 2023*  
 - **Tech Stack:** Arduino, Ultrasonic & Heat Sensors  
@@ -35,7 +35,7 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### 2. [Business Processes & ERP Simulation] (https://github.com/ARVLIKHITH/Business-Processess-BPRO) 
+### 2. Business Processes & ERP Simulation (https://github.com/ARVLIKHITH/Business-Processess-BPRO) 
 *ERP workflow simulation with BPMN schemas in SAP HANA and AP Plus.*
 - **Type:** Individual Project | *Mar – Jul 2024*  
 - **Tech Stack:** SAP HANA, AP Plus, BPMN  
@@ -45,7 +45,7 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### 3. [Product Development Project] (https://github.com/ARVLIKHITH/Product-Development-Dart-Retrieval-System)
+### 3. Product Development Project (https://github.com/ARVLIKHITH/Product-Development-Dart-Retrieval-System)
 *Designed and optimised a dart retrieval system prototype using variant analysis and structured design methods.*
 - **Type:** Group Project | *Aug 2024 – Jul 2025*  
 - **Focus Areas:** Variant Design, Morphological Box, LoR Analysis, Gantt Charts  
