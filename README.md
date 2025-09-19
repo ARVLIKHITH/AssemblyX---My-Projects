@@ -25,7 +25,7 @@ Here are some of my key projects with links to their repositories:
 
 ## 📌 Featured Projects
 
-### 🤖 [ROBODROID](https://github.com/ARVLIKHITH/Redesigned-ROBODROID)
+### 🤖 [ROBODROID](https://github.com/ARVLIKHITH/Redesigned-ROBODROID)  (https://github.com/ARVLIKHITH/Redesigned-ROBODROID) 
 - **Type:** Individual Project | *Aug – Nov 2023*  
 - **Tech Stack:** Arduino, Ultrasonic & Heat Sensors  
 - **Highlights:**  
