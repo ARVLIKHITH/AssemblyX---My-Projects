@@ -34,7 +34,7 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### 🏭 [Business Processes & ERP Simulation](https://github.com/ARVLIKHITH/Business-Processess-BPRO)
+### 🏭 [Business Processes & ERP Simulation](https://github.com/ARVLIKHITH/Business-Processess-BPRO) (https://github.com/ARVLIKHITH/Business-Processess-BPRO)
 - **Type:** Individual Project | *Mar – Jul 2024*  
 - **Tech Stack:** SAP HANA, AP Plus, BPMN  
 - **Highlights:**  
@@ -44,7 +44,7 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### 🛠️ [Product Development Project](https://github.com/ARVLIKHITH/Product-Development-Dart-Retrieval-System)
+### 🛠️ [Product Development Project](https://github.com/ARVLIKHITH/Product-Development-Dart-Retrieval-System) (https://github.com/ARVLIKHITH/Product-Development-Dart-Retrieval-System)
 - **Type:** Group Project | *Aug 2024 – Jul 2025*  
 - **Focus Areas:** Variant Design, Morphological Box, LoR Analysis, Gantt Charts  
 - **Highlights:**  
@@ -104,4 +104,4 @@ Here are some of my key projects with links to their repositories:
 ---
 
 ✨ *This portfolio is continuously updated as I progress in my academic and professional journey.*  
-I progress in my academic and professional journey.*  
+
