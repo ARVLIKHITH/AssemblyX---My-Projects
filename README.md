@@ -11,7 +11,7 @@ I combine **Engineering Design, ERP Systems, and Process Optimisation** with a s
 **What drives me?**  
 I am passionate about **optimising production systems and integrating ERP solutions** to improve efficiency, reliability, and decision-making. My goal is to design smarter, more sustainable production systems that connect **business processes with engineering execution** through ERP and Industry 4.0 technologies.  
 
-📌 Currently:  
+ Currently:  
 - Projects in **ERP & Digital Transformation, Material Flow Optimisation and Product Development**  
 - Expanding expertise in **Makerspace prototyping**, **Siemens Plant Simulation**, **Siemens NX Cad** and **DMAIC phases**.
 -------------------------------------
@@ -23,7 +23,7 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 1. ROBODROID (https://github.com/ARVLIKHITH/Redesigned-ROBODROID) 
 *An Arduino-powered robot integrating ultrasonic and heat sensors for automation and safety.*
