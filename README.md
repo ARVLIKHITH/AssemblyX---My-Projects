@@ -35,7 +35,7 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### 2. Business Processes & ERP Simulation ([https://github.com/ARVLIKHITH/Business-Processess-BPRO]) 
+### 2. Business Processes & ERP Simulation (https://github.com/ARVLIKHITH/Business-Processess-BPRO) 
 *ERP workflow simulation with BPMN schemas in SAP HANA and AP Plus.*
 - **Type:** Individual Project | *Mar – Jul 2024*  
 - **Tech Stack:** SAP HANA, AP Plus, BPMN  
