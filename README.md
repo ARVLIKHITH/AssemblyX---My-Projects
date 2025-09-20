@@ -4,7 +4,7 @@
 
 # About Me
 
-Hi, I’m **Likhith Anand** — a **Business and Engineering student (B.Eng.)** currently studying between **Technische Hochschule Würzburg-Schweinfurt (Germany)** and **Auburn University (USA)**.  
+Hello, I’m **Likhith Anand** — a **Business and Engineering student (B.Eng.)** currently studying between **Technische Hochschule Würzburg-Schweinfurt (Germany)** and **Auburn University (USA)**.  
 
 I combine **Engineering Design, ERP Systems, and Process Optimisation** with a strong foundation in **Industrial & Systems Engineering**. With international experience across **India, Germany, and the USA**, I bring a **global perspective** and strong cross-cultural teamwork skills.  
 
