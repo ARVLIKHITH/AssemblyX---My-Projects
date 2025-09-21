@@ -16,7 +16,7 @@ I am passionate about **optimising production systems and integrating ERP soluti
 - Expanding expertise in **Makerspace prototyping**, **Siemens Plant Simulation**, **Siemens NX Cad** and **DMAIC phases**.
 -------------------------------------
 
-# 🚀 Welcome  
+# Welcome  
 
 I bridge **Engineering, Business, and Technology** through hands-on projects in **ERP systems, Product Development, CAD/Design, and Process Optimisation**.  
 Here are some of my key projects with links to their repositories:  
