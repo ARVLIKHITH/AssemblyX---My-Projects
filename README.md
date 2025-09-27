@@ -2,6 +2,15 @@
 
 # 🚀 My Project Portfolio
 
+---
+
+## 🔗 Repositories
+- [DartXtract](https://github.com/ARVLIKHITH/DartXtract)
+- [AssemblyX](https://github.com/ARVLIKHITH/AssemblyX---My-Projects)
+- [PathCode](https://github.com/ARVLIKHITH/PathCode)
+
+---
+
 # About Me
 
 Hello, I’m **Likhith Anand** — a **Business and Engineering student (B.Eng.)** currently studying between **Technische Hochschule Würzburg-Schweinfurt (Germany)** and **Auburn University (USA)**.  
