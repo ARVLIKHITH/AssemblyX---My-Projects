@@ -8,6 +8,7 @@
 - [Robodroid](https://github.com/ARVLIKHITH/Redesigned-ROBODROID)
 - [BPRO](https://github.com/ARVLIKHITH/Business-Processess-BPRO)
 - [Product Development](https://github.com/ARVLIKHITH/Product-Development-Dart-Retrieval-System)
+- [Senior Design](https://github.com/ARVLIKHITH/Senior-Design-DMAIC-PHASES)
 ---
 
 # About Me
