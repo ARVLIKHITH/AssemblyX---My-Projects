@@ -63,7 +63,7 @@ Here are some of my key projects with links to their repositories:
 
 ---
 
-### 4. Senior Design – Brown-Kopel “Table Talks” Optimisation
+### 4. Senior Design – Brown-Kopel “Table Talks” Optimisation (https://github.com/ARVLIKHITH/Senior-Design-DMAIC-PHASES)
 *Applied DMAIC methodology to streamline student recruiting and engagement processes for higher efficiency.*
 - **Type:** Group Project | *Aug 2025 – Present*  
 - **Framework:** DMAIC, Data-Driven Analysis  
